@@ -27,6 +27,7 @@ namespace ProgramaDeFactoracion
             tablaDatos.Columns.Add("Valor IVA");
             tablaDatos.Columns.Add("Total");
             gridDatos.DataSource = tablaDatos;
+            Console.WriteLine("Prueba de texto");
         }
 
         private void buttonAñadir_Click(object sender, EventArgs e) {

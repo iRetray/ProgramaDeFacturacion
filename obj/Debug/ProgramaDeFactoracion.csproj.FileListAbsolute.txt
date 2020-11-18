@@ -8,3 +8,13 @@ C:\Users\julia\Desktop\ProgramaDeFactoracion\obj\Debug\ProgramaDeFactoracion.csp
 C:\Users\julia\Desktop\ProgramaDeFactoracion\obj\Debug\ProgramaDeFactoracion.exe
 C:\Users\julia\Desktop\ProgramaDeFactoracion\obj\Debug\ProgramaDeFactoracion.pdb
 C:\Users\julia\Desktop\ProgramaDeFactoracion\obj\Debug\ProgramaDeFactoracion.Form1.resources
+C:\Users\julia\Desktop\ProgramaDeNomina\bin\Debug\ProgramaDeFactoracion.exe.config
+C:\Users\julia\Desktop\ProgramaDeNomina\bin\Debug\ProgramaDeFactoracion.exe
+C:\Users\julia\Desktop\ProgramaDeNomina\bin\Debug\ProgramaDeFactoracion.pdb
+C:\Users\julia\Desktop\ProgramaDeNomina\obj\Debug\ProgramaDeFactoracion.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\ProgramaDeNomina\obj\Debug\ProgramaDeFactoracion.Form1.resources
+C:\Users\julia\Desktop\ProgramaDeNomina\obj\Debug\ProgramaDeFactoracion.Properties.Resources.resources
+C:\Users\julia\Desktop\ProgramaDeNomina\obj\Debug\ProgramaDeFactoracion.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\ProgramaDeNomina\obj\Debug\ProgramaDeFactoracion.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\ProgramaDeNomina\obj\Debug\ProgramaDeFactoracion.exe
+C:\Users\julia\Desktop\ProgramaDeNomina\obj\Debug\ProgramaDeFactoracion.pdb
